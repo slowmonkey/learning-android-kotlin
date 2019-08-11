@@ -1,5 +1,7 @@
 Followed the following tutorial: https://www.raywenderlich.com/4738-your-first-kotlin-android-app/lessons/5
 
+Below are my random notes for me to remember what I tried doing.
+
 # Installation and Setup
 
 1. Install Android Studio
