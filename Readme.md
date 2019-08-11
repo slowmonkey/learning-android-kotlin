@@ -38,5 +38,11 @@ Followed the following tutorial: https://www.raywenderlich.com/4738-your-first-k
 
 - var, val, object instantiation in Kotlin.
 - resource values to be stored in strings.xml, helps with translations later.
-- layout creating, constrain settings.
+- layout creating with TextView and Button and constrain settings.
 - Only one activity at the moment.
+- Orientation changes cause the main activity to be re-created. Use saveInstanceState.
+- Changing and setting colours via the styles.xml and colors.xml
+- Adding an animation
+  - This was a bit harder. Had to understand what's in the set tag and what animation to run.
+- Adding a menu
+- Adding an icon. Should be 512x512 pixels in size and png format
