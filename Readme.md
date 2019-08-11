@@ -33,3 +33,10 @@ Followed the following tutorial: https://www.raywenderlich.com/4738-your-first-k
 2. Increment a score
 3. Show countdown timer
 4. Start the game
+
+# What am I learning?
+
+- var, val, object instantiation in Kotlin.
+- resource values to be stored in strings.xml, helps with translations later.
+- layout creating, constrain settings.
+- Only one activity at the moment.
